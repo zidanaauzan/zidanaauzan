@@ -11,8 +11,8 @@
   <path d="M0 268C170 244 330 250 500 266S830 290 980 268 1140 246 1200 256V300H0Z" fill="#4F8A8B" fill-opacity=".22"/>
   <path d="M0 286C200 272 380 280 560 286S900 296 1040 284 1160 274 1200 278V300H0Z" fill="#4F8A8B" fill-opacity=".34"/>
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" fill="#1F3A44">
-    <text x="80" y="122" font-size="92" font-weight="700" letter-spacing="-1">Zidan</text>
-    <rect x="83" y="146" width="72" height="6" rx="3" fill="#4F8A8B"/>
-    <text x="80" y="204" font-size="43">Student at Universitas Indraprasta PGRI</text>
+    <text x="64" y="108" font-size="92" font-weight="700" letter-spacing="-1">Zidan</text>
+    <rect x="67" y="129" width="72" height="6" rx="3" fill="#4F8A8B"/>
+    <text x="64" y="199" font-size="56">Student at Universitas Indraprasta PGRI</text>
   </g>
 </svg>
